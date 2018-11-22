@@ -1,5 +1,7 @@
 package com.example.edu.openweather;
 
+// using Open Weather Map API site
+
 import android.content.Context;
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
